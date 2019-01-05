@@ -252,5 +252,5 @@ ul.todo#completed:after {
   display: block;
   text-align: center;
   font-size: 12px;
-  color: #000;
+  color: #aaa;
 }
